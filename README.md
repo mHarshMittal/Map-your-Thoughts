@@ -1,8 +1,5 @@
 # [Map your thoughts](https://map-your-thoughts.vercel.app)
 
-https://github.com/user-attachments/assets/9273b9ce-b390-47db-a638-9ecfa73d6828
-
-
 ## Express Yourself Freely
 
 Share your ideas, stories, or anything on your mind—no feedback, no likes, no comments, no followers, no friends, no ads, no distractions, no nonsense. Just you and human thoughts, connecting somewhere on Earth.
@@ -34,7 +31,7 @@ Share your ideas, stories, or anything on your mind—no feedback, no likes, no 
 1. Clone the repository
 
 ```bash
-git clone https://github.com/sujjeee/map-your-thoughts.git
+git clone https://github.com/mHarshMittal/map-your-thoughts.git
 ```
 
 2. Install dependencies using pnpm
