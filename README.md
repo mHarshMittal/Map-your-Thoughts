@@ -34,10 +34,10 @@ Share your ideas, stories, or anything on your mind—no feedback, no likes, no 
 git clone https://github.com/mHarshMittal/map-your-thoughts.git
 ```
 
-2. Install dependencies using pnpm
+2. Install dependencies using npm
 
 ```bash
-pnpm install
+npm install
 ```
 
 3. Copy the `.env.example` to `.env` and update the variables.
@@ -49,7 +49,7 @@ cp .env.example .env
 4. Start the development server
 
 ```bash
-pnpm dev
+npm dev
 ```
 
 ## Credit
