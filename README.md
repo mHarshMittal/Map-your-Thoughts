@@ -1,4 +1,4 @@
-# [Map your thoughts](https://map-your-thoughts.vercel.app)
+# [Map your thoughts](https://map-your-thoughts-amber.vercel.app/)
 
 ## Express Yourself Freely
 
