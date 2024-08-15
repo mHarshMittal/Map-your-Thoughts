@@ -3,7 +3,7 @@
 ## Express Yourself Freely
 
 Share your ideas, stories, or anything on your mind—no feedback, no likes, no comments, no followers, no friends, no ads, no distractions, no nonsense. Just you and human thoughts, connecting somewhere on Earth.
-![Screenshot 2024-08-15 233205](https://github.com/user-attachments/assets/cff91528-069a-41f9-9d3d-8262b1d4e8e0)
+
 
 ## Features
 
