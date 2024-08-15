@@ -15,7 +15,7 @@ export default async function Home() {
         <div className=" flex flex-col items-center justify-center gap-1">
           <AddMessage />
           <Link
-            href="https://github.com/sujjeee/map-your-thoughts"
+            href="https://github.com/mHarshMittal/Map-your-Thoughts"
             className={cn(
               buttonVariants({
                 variant: "outline",
